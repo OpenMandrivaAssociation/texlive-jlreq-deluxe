@@ -1,6 +1,6 @@
 Name:		texlive-jlreq-deluxe
-Version:	64072
-Release:	2
+Version:	66115
+Release:	1
 Summary:	Multi-weight Japanese font support for the jlreq class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jlreq-deluxe
