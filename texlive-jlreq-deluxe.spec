@@ -1,5 +1,5 @@
 Name:		texlive-jlreq-deluxe
-Version:	66115
+Version:	69971
 Release:	1
 Summary:	Multi-weight Japanese font support for the jlreq class
 Group:		Publishing
