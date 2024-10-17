@@ -3,7 +3,7 @@ Version:	69971
 Release:	1
 Summary:	Multi-weight Japanese font support for the jlreq class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jlreq-deluxe
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jlreq-deluxe
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jlreq-deluxe.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jlreq-deluxe.doc.r%{version}.tar.xz
